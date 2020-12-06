@@ -1,9 +1,5 @@
 body {
-	/*background-color: #000*/
-	width: 100%;
-	background: linear-gradient(rgba(0,0,0, .7), rgba(0,0,0, .7)), url(laksh_portfolio/assets/img/bg_ter.jpg);
-	background-size: cover;
-  	position: relative;
+	background-color: #000
 }
 
 #console {
@@ -12,7 +8,7 @@ body {
 	width:750px;
 	margin-left:auto;
 	margin-right:auto;
-	margin-top:100px;
+	margin-top:50px;
 	font-size:14px;
 }
 
