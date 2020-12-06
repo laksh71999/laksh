@@ -1,6 +1,6 @@
 <span id="a">laksh@Ram</span>:<span id="b">~</span><span id="c">$</span> cd My_Profile/<!-- kjsdfhkjdhsfkjdshfkj -->About_Me
 <span id="a">laksh@Ram</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->laksh.txt<br/><br/>
-My favorite code quote, "<span id="k"> Don't mess with an Electrical Engineer IT MEGAHERTZ! </span>". <!-- sjkfhskjf -->
+My favorite quote, "<span id="k"> Don't mess with an Electrical Engineer IT MEGAHERTZ! </span>". <!-- sjkfhskjf -->
 
  Hey There! This is the my website where,<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p> You can know about me.</p>
 <p> Hi, My name is Lakshmanan.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
