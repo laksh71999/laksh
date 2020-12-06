@@ -2,7 +2,7 @@
 <span id="a">laksh@Ram</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->laksh.txt<br/><br/>
 My favorite quote, "<span id="k"> Don't mess with an Electrical Engineer IT MEGAHERTZ! </span>". <!-- sjkfhskjf -->
 
- Hey There! This is the my website where,<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p> You can know about me.</p>
+ Hey There! This is my website where,<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p> You can know about me.</p>
 <p> Hi, My name is Lakshmanan.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <p> It was not so long ago that I understood I am an Electrical Engineer, so I am as complicated and techie for others. But, my complications are nothing seems to be worry for me. Because I like it. They are completely unique. I find some of my skills and activities are admirable and very attractive, while others find them terrible. I guess it is all a piece of the puzzle that is called personality. To know more about me feel free to vist my portfolio <a href="laksh_portfolio/index.html">Click Here..</a></p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 <p> After completing my B. E. - Electrical and electronics engineering, I started to work as a technical engineer. Also, I am doing some freelance work like Web designing and projects in robotics. Since, I have interest to do and learn more about hardware and software, I am doing research on some projects.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
